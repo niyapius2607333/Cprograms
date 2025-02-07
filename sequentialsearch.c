@@ -1,7 +1,7 @@
 '''
 Author:NIYA PIUS
 Date : 05-02-2025
-C program to do sequential search in an array
+C program to conduct sequential search in an array
 '''
 #include<stdio.h>
   int main(){
