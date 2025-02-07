@@ -1,3 +1,8 @@
+'''
+Author:NIYA PIUS
+Date : 30-01-2025
+C program to fing the largest and smallest element of an array
+'''
 #include<stdio.h>
   int main(){
      int i,limit,largest,smallest;
