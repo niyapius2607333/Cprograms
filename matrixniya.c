@@ -1,4 +1,10 @@
-#include<stdio.h>
+'''
+Author:NIYA PIUS
+Date:07-02-2025
+C program to conduct addition of diagonal elements of a matrix
+'''
+  
+  #include<stdio.h>
   int main(){
   int i,j,row,col,sum=0;
   printf("Enter the row and column of the matrix");
