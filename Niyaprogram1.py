@@ -1,3 +1,9 @@
+'''
+Author:NIYA PIUS
+Date : 30-01-2025
+C program to find whether a person is eligible for voting or not
+'''
+
 #include<stdio.h>
 
  int main(){
