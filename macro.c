@@ -1,3 +1,8 @@
+'''
+Author:NIYA PIUS
+Date : 26-03-2025
+C program to find area of circle and cylinder
+'''
 #include<stdio.h>
 #define Pi 3.14159
 int main(){
