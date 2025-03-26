@@ -1,3 +1,8 @@
+'''
+Author:NIYA PIUS
+Date : 26-03-2025
+C program to find power of a number
+'''
 #include<stdio.h>
 int multiply (int num1,int num2){
 if(num2==0)
