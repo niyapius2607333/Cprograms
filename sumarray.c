@@ -1,3 +1,8 @@
+'''
+Author:NIYA PIUS
+Date : 26-03-2025
+C program to find sum of elements of an array using function
+'''
 #include <stdio.h>
 
 int arraysum(int array[], int limit);
